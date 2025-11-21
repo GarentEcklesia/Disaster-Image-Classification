@@ -55,4 +55,7 @@ Test the model in real-time with our interactive web app:
 
 ## 📬 Contact
 
-Created by **Garent Ecklesia**. Feel free to reach out for collaboration or questions!
+Garent Ecklesia - [garentecklesia45678@gmail.com](mailto:garentecklesia45678@gmail.com)
+
+## 📝 License
+This project is open-source and free to use for educational and research purposes.
